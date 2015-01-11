@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22310.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "as.PlugIn", "as.PlugIn\as.PlugIn.csproj", "{A035B7DB-4829-45CF-B03E-19C4E99624B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "as.PlugIn.Test", "as.PlugIn.Test\as.PlugIn.Test.csproj", "{D3844E75-3195-4BF2-A76B-B4108951F572}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A035B7DB-4829-45CF-B03E-19C4E99624B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A035B7DB-4829-45CF-B03E-19C4E99624B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A035B7DB-4829-45CF-B03E-19C4E99624B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A035B7DB-4829-45CF-B03E-19C4E99624B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3844E75-3195-4BF2-A76B-B4108951F572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3844E75-3195-4BF2-A76B-B4108951F572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3844E75-3195-4BF2-A76B-B4108951F572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3844E75-3195-4BF2-A76B-B4108951F572}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
